@@ -4,3 +4,6 @@ Developed a standalone Python hardware simulation module mirroring real-time mat
 Programmed decoupled software testing tracks executing automated voltage tolerance tracking and continuity analysis.
 Integrated dynamic statistical models to populate test data logs into automated production-grade CSV metrics databases.
 Published clean, modular, object-oriented code architecture on GitHub ready for deployment on embedded hardware controllers.
+## 🌐 Live Hardware Simulation
+- [Click here to run and interact with the virtual Pico Test Rig layout on Wokwi](PASTE_YOUR_COPIED_WOKWI_LINK_HERE)
+-https://wokwi.com/projects/472853676673930241
