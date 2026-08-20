@@ -1,1 +1,6 @@
-Automated PCB Test Rig Co-Simulation | KiCad & PythonDesigned physical circuit schematics and layout optimization parameters for an automated test rig using KiCad.Developed a standalone Python hardware simulation module mirroring real-time matrix keypad control grids.Programmed decoupled software testing tracks executing automated voltage tolerance tracking and continuity analysis.Integrated dynamic statistical models to populate test data logs into automated production-grade CSV metrics databases.Published clean, modular, object-oriented code architecture on GitHub ready for deployment on embedded hardware controllers.
+Automated PCB Test Rig Co-Simulation | KiCad & Python
+Designed physical circuit schematics and layout optimization parameters for an automated test rig using KiCad.
+Developed a standalone Python hardware simulation module mirroring real-time matrix keypad control grids.
+Programmed decoupled software testing tracks executing automated voltage tolerance tracking and continuity analysis.
+Integrated dynamic statistical models to populate test data logs into automated production-grade CSV metrics databases.
+Published clean, modular, object-oriented code architecture on GitHub ready for deployment on embedded hardware controllers.
